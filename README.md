@@ -14,7 +14,7 @@ Academia currently finds itself at a crossroad, with advances in data science an
    - The second literature review on papers citing Wilkinson (2016) conducted in October 2025
 4. ASReview logs (2x): Two ASReview export/log files documenting the automation-assisted screening process for the retrieved paper sets:
    - Papers extracted from Scopus on 14 March
-   - Papers extracted from Web of Science on 21 March
+   - Papers extracted from ScienceDirect on 21 March
 
 ## Contact
 Questions or requests regarding the repository can be directed to [joelle.stocker@wur.nl.](joelle.stocker@wur.nl)
