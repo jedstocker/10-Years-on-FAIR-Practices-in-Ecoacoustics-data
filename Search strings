@@ -1,0 +1,10 @@
+Search strings literature review 1
+Scopus:
+- TITLE-ABS-KEY ( ( "findable accessible interoperable and reusable" OR "findable, accessible, interoperable, reusable" OR Semantics OR Ontologies OR "Data Pipeline" OR "Data management" OR Metadata OR "Data sharing" OR Interoperability OR "Open access" OR "Data stewardship" OR "Data standards" OR "Data infrastructure" OR "knowledge graph" OR "linked data" ) AND ( Ecoacoustic* OR Bioacoustic* OR Soundscape OR "Acoustic Monitoring" OR "Acoustic ecology" ) )
+ScienceDirect:
+- (“findable, accessible, interoperable, reusable” OR Metadata OR knowledge graph” OR “linked data”) AND (Ecoacoustic OR Bioacoustic OR Soundscape OR "Acoustic Monitoring" OR "Acoustic ecology")
+- Title, abstract, keywords: (Ontologies OR pipeline OR "data management" OR metadata OR semantics OR infrastructure OR platform) NOT (Urban)
+
+Search strings literature review 2: 
+- Conducted in Google scholar, under papers citing: https://doi.org/10.1038/sdata.2016.18
+- The search words were: "ecoacoustics OR bioacoustics"
